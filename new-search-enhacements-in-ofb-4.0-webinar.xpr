@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+    <meta>
+        <filters directoryPatterns="" filePatterns="\Qnew-search-enhacements-in-ofb-4.0-webinar.xpr\E" positiveFilePatterns="" showHiddenFiles="false"/>
+        <options>
+            <serialized xml:space="preserve">
+                <serializableOrderedMap>
+                    <entry>
+                        <String>keys.context</String>
+                        <String>${pdu}/dita/flowers/flowers.ditamap</String>
+                    </entry>
+                </serializableOrderedMap>
+            </serialized>
+        </options>
+    </meta>
+    <projectTree name="new-search-enhacements-in-ofb-4.0-webinar.xpr">
+        <folder path="."/>
+    </projectTree>
+</project>

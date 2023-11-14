@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE subjectScheme PUBLIC "-//OASIS//DTD DITA Subject Scheme Map//EN" "subjectScheme.dtd"> 
+<subjectScheme>
+    <subjectHead>
+        <subjectHeadMeta>
+            <navtitle>Flowers Subject Scheme Map</navtitle>
+        </subjectHeadMeta>
+    </subjectHead>
+    <hasInstance>
+        <subjectdef keys="season">
+            <topicmeta>
+                <navtitle>Flowers by Season</navtitle>
+            </topicmeta>
+            <subjectdef keys="spring">
+                <topicmeta>
+                    <navtitle>Spring</navtitle>
+                </topicmeta>                
+            </subjectdef>
+            <subjectdef keys="summer">
+                <topicmeta>
+                    <navtitle>Summer</navtitle>
+                </topicmeta>
+            </subjectdef>
+            
+            <subjectdef keys="autumn">
+                <topicmeta>
+                    <navtitle>Autumn</navtitle>
+                </topicmeta>
+            </subjectdef>
+            
+            <subjectdef keys="winter">
+                <topicmeta>
+                    <navtitle>Winter</navtitle>
+                </topicmeta>
+            </subjectdef>
+        </subjectdef>
+        
+        <subjectdef keys="family">
+            <topicmeta>
+                <navtitle>Flowers by Family</navtitle>
+            </topicmeta>
+            <subjectdef keys="iridaceae">
+                <topicmeta>
+                    <navtitle>Iridaceae</navtitle>
+                </topicmeta>                
+            </subjectdef>
+            <subjectdef keys="amaryllidaceae">
+                <topicmeta>
+                    <navtitle>Amaryllidaceae</navtitle>
+                </topicmeta>
+            </subjectdef>            
+            <subjectdef keys="rubiaceae">
+                <topicmeta>
+                    <navtitle>Rubiaceae</navtitle>
+                </topicmeta>
+            </subjectdef>
+            <subjectdef keys="oleaceae">
+                <topicmeta>
+                    <navtitle>Oleaceae</navtitle>
+                </topicmeta>
+            </subjectdef>
+            <subjectdef keys="asteraceae">
+                <topicmeta>
+                    <navtitle>Asteraceae</navtitle>
+                </topicmeta>
+            </subjectdef>
+            <subjectdef keys="lamiaceae">
+                <topicmeta>
+                    <navtitle>Lamiaceae</navtitle>
+                </topicmeta>
+            </subjectdef>
+        </subjectdef>
+    </hasInstance>
+    
+</subjectScheme>

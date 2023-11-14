@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Classification Map//EN" "classifyMap.dtd">
+<map processing-role="resource-only">
+    <title>Flowers Classification Map</title>
+    <!-- Associate topics to seasons and families. -->
+    <topicref href="../concepts/springFlowers.dita">
+        <topicsubject keyref="season">
+            <subjectref keyref="spring"/>
+        </topicsubject>
+        
+        <topicref href="../topics/flowers/iris.dita">
+            <topicsubject keyref="family">
+                <subjectref keyref="iridaceae"/>
+            </topicsubject>
+        </topicref>
+        <topicref href="../topics/flowers/snowdrop.dita">
+            <topicsubject keyref="family">
+                <subjectref keyref="amaryllidaceae"/>
+            </topicsubject>
+        </topicref>
+    </topicref>
+    <topicref href="../concepts/summerFlowers.dita">
+        <topicsubject keyref="season">
+            <subjectref keyref="summer"/>
+        </topicsubject>
+        
+        <topicref href="../topics/flowers/gardenia.dita">
+            <topicsubject keyref="family">
+                <subjectref keyref="rubiaceae"/>
+            </topicsubject>
+        </topicref>
+        <topicref href="../topics/flowers/lilac.dita">
+            <topicsubject keyref="family">
+                <subjectref keyref="oleaceae"/>
+            </topicsubject>
+        </topicref>
+        
+    </topicref>
+    <topicref href="../concepts/autumnFlowers.dita">
+        <topicsubject keyref="season">
+            <subjectref keyref="autumn"/>
+        </topicsubject>
+        
+        <topicref href="../topics/flowers/chrysanthemum.dita">
+            <topicsubject keyref="family">
+                <subjectref keyref="asteraceae"/>
+            </topicsubject>
+        </topicref>
+        <topicref href="../topics/flowers/salvia.dita">
+            <topicsubject keyref="family">
+                <subjectref keyref="lamiaceae"/>
+            </topicsubject>
+        </topicref>
+        
+    </topicref>
+    <topicref href="../concepts/winterFlowers.dita">
+        <topicsubject keyref="season">
+            <subjectref keyref="winter"/>
+        </topicsubject>
+        <topicref href="../topics/flowers/gerbera.dita">
+            <topicsubject keyref="family">
+                <subjectref keyref="asteraceae"/>
+            </topicsubject>
+        </topicref>
+    </topicref>
+    
+</map>
